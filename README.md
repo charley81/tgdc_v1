@@ -1,3 +1,3 @@
-# The Great Dev Co.
+# Chris Harley
 
-> Official Company Website V1
+> Freelance JAMstack developer

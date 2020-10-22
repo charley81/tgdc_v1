@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'The Great Dev Co.',
-    description: 'A online website development agency',
+    title: 'Chris Harley',
+    description: 'Freelance Web Developer',
     author: 'Chris Harley',
   },
   plugins: [
